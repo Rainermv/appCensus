@@ -1,0 +1,12 @@
+\\caronte\dti$\rainervieira\documents\visual studio 2015\Projects\AppCenso\AppCenso\bin\Debug\AppCenso.exe.config
+\\caronte\dti$\rainervieira\documents\visual studio 2015\Projects\AppCenso\AppCenso\bin\Debug\AppCenso.exe
+\\caronte\dti$\rainervieira\documents\visual studio 2015\Projects\AppCenso\AppCenso\bin\Debug\AppCenso.pdb
+\\caronte\dti$\rainervieira\documents\visual studio 2015\Projects\AppCenso\AppCenso\obj\Debug\AppCensus.csprojResolveAssemblyReference.cache
+\\caronte\dti$\rainervieira\documents\visual studio 2015\Projects\AppCenso\AppCenso\obj\Debug\AppCenso.exe
+\\caronte\dti$\rainervieira\documents\visual studio 2015\Projects\AppCenso\AppCenso\obj\Debug\AppCenso.pdb
+C:\Users\Rainervieira\projects\VisualStudio\AppCenso\AppCenso\bin\Debug\AppCenso.exe.config
+C:\Users\Rainervieira\projects\VisualStudio\AppCenso\AppCenso\obj\Debug\AppCenso.exe
+C:\Users\Rainervieira\projects\VisualStudio\AppCenso\AppCenso\obj\Debug\AppCenso.pdb
+C:\Users\Rainervieira\projects\VisualStudio\AppCenso\AppCenso\bin\Debug\AppCenso.exe
+C:\Users\Rainervieira\projects\VisualStudio\AppCenso\AppCenso\bin\Debug\AppCenso.pdb
+C:\Users\Rainervieira\projects\VisualStudio\AppCenso\AppCenso\obj\Debug\AppCensus.csprojResolveAssemblyReference.cache
